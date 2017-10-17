@@ -21,6 +21,7 @@ public class Main {
 		try {
 			
 
+			
 			fr = new FileReader(FILENAME);
 			br = new BufferedReader(fr);
 			
